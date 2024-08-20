@@ -3,6 +3,3 @@
 
 <img src="src/preview.gif" alt="Gif aperçu du programme" width="300">
 
-<h2> Configuration </h2>
-<p>Ce programme requiert java 16+ s'executer correctement.</p>
-
